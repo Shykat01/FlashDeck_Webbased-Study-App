@@ -24,12 +24,14 @@ A seeded evaluation account is pre-configured with 3 complete interview decks an
 
 ---
 
-## Architecture & Repositories
+## Architecture & Submission Repositories
 
-This project contains both the DRF backend and React Vite frontend:
+This project provides both monorepo and standalone branch access to meet the course submission specifications:
 
-- [Backend API Directory (`backend/`)](./backend/README.md) — Django REST Framework, JWT auth, Leitner box ladder scheduling, and tests.
-- [Frontend Client Directory (`frontend/`)](./frontend/README.md) — React 18, Vite, Tailwind CSS, 3D flip card, keyboard shortcuts, and responsive UI.
+| Area | Standalone Branch Link (Recommended) | Monorepo Directory Link |
+|---|---|---|
+| **Backend API (Django + DRF)** | [FlashDeck Backend Branch](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/backend) | [backend/](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/main/backend) |
+| **Frontend Client (React + Vite)** | [FlashDeck Frontend Branch](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/frontend) | [frontend/](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/main/frontend) |
 
 ---
 

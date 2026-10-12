@@ -105,4 +105,5 @@ Instead of using a generic downloaded admin dashboard theme, FlashDeck was handc
 ---
 
 ## Linked Backend Repository
-Backend API repository: [FlashDeck Backend](../backend/)
+- **Standalone Backend Branch:** [FlashDeck Backend API](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/backend)
+- **Monorepo Directory:** [backend/](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/main/backend)

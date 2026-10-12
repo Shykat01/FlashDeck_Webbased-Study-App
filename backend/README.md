@@ -125,4 +125,5 @@ The spaced-repetition logic is server-owned. Review results apply the following 
 ---
 
 ## Linked Frontend Repository
-Frontend client repository: [FlashDeck Frontend](../frontend/)
+- **Standalone Frontend Branch:** [FlashDeck Frontend Client](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/frontend)
+- **Monorepo Directory:** [frontend/](https://github.com/Shykat01/FlashDeck_Webbased-Study-App/tree/main/frontend)
